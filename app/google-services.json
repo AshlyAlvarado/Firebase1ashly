@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915653870962",
+    "project_id": "primerfirebase-66386",
+    "storage_bucket": "primerfirebase-66386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915653870962:android:4014bb0e1f84c9a3f309eb",
+        "android_client_info": {
+          "package_name": "com.example.firebase1ashly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915653870962-ctlnh9g0pacvqaqk9gmniulksn2vn81i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9D157SUN7-dU84hXCp_KYVxile4a6tUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915653870962-ctlnh9g0pacvqaqk9gmniulksn2vn81i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
